@@ -1,0 +1,6 @@
+#minimal .gitignore for a Flask project
+
+venv/
+__pycache__/
+*.pyc
+.DS_Store
