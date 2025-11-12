@@ -7,4 +7,3 @@ def test_home():
     assert res.status_code == 200
     assert b'DevOps' in res.data
 
-#end of file
